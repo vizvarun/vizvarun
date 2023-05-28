@@ -25,15 +25,15 @@ Passionate about the fusion of technology and design, I am always seeking new op
 
 With 2+ years of experience as a software engineer, I am known for my quick learning, excellent communication skills, and practical programming approach. I work with several programming languages including JavaScript, PHP, Python and C++.
 
-### Languages I work with
-
-| JavaScript | Python | C++ | PHP |
-| :--------: | :----: | :-: | --- |
-
 ### Frameworks and libraries
 
 | React | Angular | React Native | Express | SpringBoot |
 | ----- | ------- | ------------ | ------- | ---------- |
+
+### Languages I work with
+
+| JavaScript | Python | C++ | PHP |
+| :--------: | :----: | :-: | --- |
 
 ### Databases
 
