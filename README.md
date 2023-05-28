@@ -21,21 +21,21 @@ Beyond my coding skills, I have a deep love for music composition and playing th
 
 Passionate about the fusion of technology and design, I am always seeking new opportunities to collaborate on innovative projects that push the boundaries of user experience. Let's connect and bring your ideas to life in the most engaging and visually stunning way possible!
 
-## ⚡ Brief intro
+## Brief intro
 
 With 2+ years of experience as a software engineer, I am known for my quick learning, excellent communication skills, and practical programming approach. I work with several programming languages including JavaScript, PHP, Python and C++.
 
-### ☠ Languages I work with
+### Languages I work with
 
 | JavaScript | Python | C++ | PHP |
 | :--------: | :----: | :-: | --- |
 
-### 👨‍🔧 Frameworks and libraries
+### Frameworks and libraries
 
 | React | Angular | React Native | Express | SpringBoot |
 | ----- | ------- | ------------ | ------- | ---------- |
 
-### 🗃 Databases
+### Databases
 
 | MySQL | Postgres |
 | ----- | -------- |
